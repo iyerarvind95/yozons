@@ -1,3 +1,5 @@
 console.log('A');
 
-function test() {};
+function test() {
+    console.log("tt");
+};
